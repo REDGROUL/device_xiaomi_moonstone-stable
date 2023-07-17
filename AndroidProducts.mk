@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_moonstone.mk
+    $(LOCAL_DIR)/derp_moonstone.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_moonstone-user \
-    lineage_moonstone-userdebug \
-    lineage_moonstone-eng
+    derp_moonstone-user \
+    derp_moonstone-userdebug \
+    derp_moonstone-eng
